@@ -33,7 +33,7 @@ else:
      """
 
 
-#Sammulugeja
+""" #Sammulugeja
 goal = 10000
 steps = int(input("Mitu sammu oled juba teinud?: "))
 
@@ -48,5 +48,5 @@ elif percent < 75:
 elif percent < 100:
     print("Suurepärane, oled peaaegu kohal!")
 else:
-    print("Palju õnne, oled oma eesmärgi täitnud!")
+    print("Palju õnne, oled oma eesmärgi täitnud!") """
 
